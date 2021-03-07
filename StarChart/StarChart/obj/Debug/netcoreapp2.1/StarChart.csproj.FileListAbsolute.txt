@@ -1,0 +1,15 @@
+C:\Users\zhuma\OneDrive\Рабочий стол\StarChart\StarChart\bin\Debug\netcoreapp2.1\StarChart.deps.json
+C:\Users\zhuma\OneDrive\Рабочий стол\StarChart\StarChart\bin\Debug\netcoreapp2.1\StarChart.runtimeconfig.json
+C:\Users\zhuma\OneDrive\Рабочий стол\StarChart\StarChart\bin\Debug\netcoreapp2.1\StarChart.runtimeconfig.dev.json
+C:\Users\zhuma\OneDrive\Рабочий стол\StarChart\StarChart\bin\Debug\netcoreapp2.1\StarChart.dll
+C:\Users\zhuma\OneDrive\Рабочий стол\StarChart\StarChart\bin\Debug\netcoreapp2.1\StarChart.pdb
+C:\Users\zhuma\OneDrive\Рабочий стол\StarChart\StarChart\obj\Debug\netcoreapp2.1\StarChart.csprojAssemblyReference.cache
+C:\Users\zhuma\OneDrive\Рабочий стол\StarChart\StarChart\obj\Debug\netcoreapp2.1\StarChart.AssemblyInfoInputs.cache
+C:\Users\zhuma\OneDrive\Рабочий стол\StarChart\StarChart\obj\Debug\netcoreapp2.1\StarChart.AssemblyInfo.cs
+C:\Users\zhuma\OneDrive\Рабочий стол\StarChart\StarChart\obj\Debug\netcoreapp2.1\StarChart.csproj.CoreCompileInputs.cache
+C:\Users\zhuma\OneDrive\Рабочий стол\StarChart\StarChart\obj\Debug\netcoreapp2.1\StarChart.RazorAssemblyInfo.cache
+C:\Users\zhuma\OneDrive\Рабочий стол\StarChart\StarChart\obj\Debug\netcoreapp2.1\StarChart.RazorAssemblyInfo.cs
+C:\Users\zhuma\OneDrive\Рабочий стол\StarChart\StarChart\obj\Debug\netcoreapp2.1\StarChart.RazorTargetAssemblyInfo.cache
+C:\Users\zhuma\OneDrive\Рабочий стол\StarChart\StarChart\obj\Debug\netcoreapp2.1\StarChart.dll
+C:\Users\zhuma\OneDrive\Рабочий стол\StarChart\StarChart\obj\Debug\netcoreapp2.1\StarChart.pdb
+C:\Users\zhuma\OneDrive\Рабочий стол\StarChart\StarChart\obj\Debug\netcoreapp2.1\StarChart.genruntimeconfig.cache
